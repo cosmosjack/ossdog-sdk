@@ -3,7 +3,7 @@
  * 通用文件上传类
  * @author  guanguans <yzmguanguan@gmail.com>
  */
-namespace OssDog\Upload;  // 注意命名空间与 composer.json 中的一致
+namespace OssDog\Sdk\Upload;  // 注意命名空间与 composer.json 中的一致
 
 class Upload
 {
