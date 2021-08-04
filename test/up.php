@@ -9,7 +9,7 @@
  */
 require_once '../vendor/autoload.php';
 
-use Upload;
+use OssDog\Upload;
 
 $upload = new Upload();
 $upload->__set('maxSize',1*1024*1024);
