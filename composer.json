@@ -1,0 +1,19 @@
+{
+    "name": "oss_dog/sdk",
+    "description": "ossdog stock",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OssDog\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jack",
+            "email": "997823131@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
